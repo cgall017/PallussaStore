@@ -1,0 +1,21 @@
+body {
+background-color:#FFFFF
+}
+
+p {
+  color : red o se puede colocar el color especifico con #D8F781
+}
+
+.destacado{
+  	font-family:"Arial"; 
+	font-style:italic;
+	font-size:30px;
+  color:#FFBF00
+
+}
+
+.destacado{
+   font-family:"Arial";
+   color:#FFBF00
+
+}
